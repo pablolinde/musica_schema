@@ -1,4 +1,4 @@
-### musica_schema
+# musica_schema
 
 This project contains the definition and management of a database for a music system. It is divided into three SQL scripts:
 
