@@ -1,6 +1,6 @@
 # musica_schema
 
-This project contains the definition and management of a database for a music system. It is divided into three SQL scripts:
+This project contains the definition and management of a database for a music app. It is divided into three SQL scripts:
 
 - schema.sql: defines the structure of the database, including the creation of tables and constraints.
 
